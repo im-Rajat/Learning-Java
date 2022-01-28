@@ -1,3 +1,3 @@
 # Learning_Java
 
-Following Different Courses and websites.
+Following different courses and websites for leaning.
