@@ -1,4 +1,4 @@
-# Learning_Java
+# Java-Programming-Course
 
 Following Java Programming Masterclass for Software Developers (Udemy).
 
